@@ -12,7 +12,7 @@ granic morskich.
 ### Umowa między Polską Rzecząpospolitą Ludową a Niemiecką Republiką Demokratyczną w sprawie rozgraniczenia obszarów morskich w Zatoce Pomorskiej, podpisana w Berlinie dnia 22 maja 1989 r.
 
 [Dz.U. 1989 nr 43 poz. 233](http://prawo.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890430233)  
-Źródłowy układ odniesienia: System [Rauenberg](Docs/Reauenberg/) (art. 7).
+Źródłowy układ odniesienia: System [Rauenberg](Docs/Rauenberg/) (art. 7).
 
  |  Nr   | φ<sup>Rauenberg</sup> | λ<sup>Rauenberg</sup> | φ<sup>ETRS89</sup> | λ<sup>ETRS89</sup> |
  | :---: | :-------------------: | :-------------------: | :----------------: | :----------------: |
@@ -41,7 +41,7 @@ granic morskich.
 
 [Dz.U. 1995 nr 20 poz. 101](http://prawo.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950200101)  
 Źródłowy układ odniesienia: W rozporządzeniu nie podano układu odniesienia. Na podstawie porównania
-współrzędnych z Dz.U.89.43.233 można stwierdzić, że jest to System [Rauenberg](Docs/Reauenberg/).
+współrzędnych z Dz.U.89.43.233 można stwierdzić, że jest to System [Rauenberg](Docs/Rauenberg/).
 
 |  Nr   | φ<sup>Rauenberg</sup> | λ<sup>Rauenberg</sup> | φ<sup>ETRS89</sup> | λ<sup>ETRS89</sup> |
 | :---: | :-------------------: | :-------------------: | :----------------: | :----------------: |
@@ -65,7 +65,7 @@ współrzędnych z Dz.U.89.43.233 można stwierdzić, że jest to System [Rauenb
 
 &nbsp;
 > Transformajca układów współrzędnych
-> - Źródłowy układ współrzędnych przyjęty w rozporządzeniu: [Rauenberg](Docs/Reauenberg/)
+> - Źródłowy układ współrzędnych przyjęty w rozporządzeniu: [Rauenberg](Docs/Rauenberg/)
 > - Docelowy układ współrzędnych: [ETRS89](Docs/ETRS89/)
 > - Obliczenia wykonano za pomocą programu [PCTrans](Docs/PCTrans/) 4.2.10.
 > - Metoda transformacji: Helmert Bursa-Wolf (siedmioparametrowa)
