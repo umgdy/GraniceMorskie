@@ -12,7 +12,7 @@ granic morskich.
 ### Umowa między Polską Rzecząpospolitą Ludową a Niemiecką Republiką Demokratyczną w sprawie rozgraniczenia obszarów morskich w Zatoce Pomorskiej, podpisana w Berlinie dnia 22 maja 1989 r.
 
 [Dz.U. 1989 nr 43 poz. 233](http://prawo.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890430233)  
-Źródłowy układ odniesienia: System [Rauenberg](Docs/Reauenberg) (art. 7).
+Źródłowy układ odniesienia: System [Rauenberg](Docs/Reauenberg/) (art. 7).
 
  |  Nr   | φ<sup>Rauenberg</sup> | λ<sup>Rauenberg</sup> | φ<sup>ETRS89</sup> | λ<sup>ETRS89</sup> |
  | :---: | :-------------------: | :-------------------: | :----------------: | :----------------: |
@@ -41,7 +41,7 @@ granic morskich.
 
 [Dz.U. 1995 nr 20 poz. 101](http://prawo.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950200101)  
 Źródłowy układ odniesienia: W rozporządzeniu nie podano układu odniesienia. Na podstawie porównania
-współrzędnych z Dz.U.89.43.233 można stwierdzić, że jest to System [Rauenberg](docs/reauenberg).
+współrzędnych z Dz.U.89.43.233 można stwierdzić, że jest to System [Rauenberg](Docs/Reauenberg/).
 
 |  Nr   | φ<sup>Rauenberg</sup> | λ<sup>Rauenberg</sup> | φ<sup>ETRS89</sup> | λ<sup>ETRS89</sup> |
 | :---: | :-------------------: | :-------------------: | :----------------: | :----------------: |
@@ -65,8 +65,8 @@ współrzędnych z Dz.U.89.43.233 można stwierdzić, że jest to System [Rauenb
 
 &nbsp;
 > Transformajca układów współrzędnych
-> - Źródłowy układ współrzędnych przyjęty w rozporządzeniu: [Rauenberg](docs/reauenberg)
-> - Docelowy układ współrzędnych: [ETRS89](Docs/ETRS89)
+> - Źródłowy układ współrzędnych przyjęty w rozporządzeniu: [Rauenberg](Docs/Reauenberg/)
+> - Docelowy układ współrzędnych: [ETRS89](Docs/ETRS89/)
 > - Obliczenia wykonano za pomocą programu [PCTrans](Docs/PCTrans/) 4.2.10.
 > - Metoda transformacji: Helmert Bursa-Wolf (siedmioparametrowa)
 
@@ -82,7 +82,7 @@ współrzędnych z Dz.U.89.43.233 można stwierdzić, że jest to System [Rauenb
 
 [Dz.U. 2019 poz. 1240](http://prawo.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001240)  
 [Dz.U. 2019 poz. 1241](http://prawo.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001241)  
-Źródłowy układ odniesienia: [ETRS89](docs/etrs89)
+Źródłowy układ odniesienia: [ETRS89](Docs/ETRS89/)
 
  |  Nr   | φ<sup>ETRS89</sup> | λ<sup>ETRS89</sup> |
  | :---: | :----------------: | :----------------: |
@@ -112,8 +112,8 @@ współrzędnych z Dz.U.89.43.233 można stwierdzić, że jest to System [Rauenb
 
 &nbsp;
 > Transformajca układów współrzędnych
-> - Źródłowy układ współrzędnych przyjęty w umowe: [ETRS89](Docs/ETRS89)
-> - Docelowy układ współrzędnych: taki sam jak układ źródłowy ([ETRS89](Docs/ETRS89))
+> - Źródłowy układ współrzędnych przyjęty w umowe: [ETRS89](Docs/ETRS89/)
+> - Docelowy układ współrzędnych: taki sam jak układ źródłowy ([ETRS89](Docs/ETRS89/))
 
 &nbsp;
 
@@ -126,7 +126,7 @@ współrzędnych z Dz.U.89.43.233 można stwierdzić, że jest to System [Rauenb
 ### Umowa w sprawie rozgraniczenia szelfu kontynentalnego i stref rybołówczych między Polską Rzecząpospolitą Ludową a Królestwem Szwecji, sporządzona w Warszawie dnia 10 lutego 1989 r.
 
 [Dz.U. 1989 nr 54 poz. 323](http://prawo.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890540323)  
-Źródłowy układ odniesienia: [WGS72](docs/wgs72)
+Źródłowy układ odniesienia: [WGS72](Docs/WGS72/)
 
 |  Nr   | φ<sup>WGS72</sup> | λ<sup>WGS72</sup> | φ<sup>ETRS89</sup> | λ<sup>ETRS89</sup> |
 | :---: | :---------------: | :---------------: | :----------------: | :----------------: |
@@ -139,8 +139,8 @@ współrzędnych z Dz.U.89.43.233 można stwierdzić, że jest to System [Rauenb
 
 &nbsp;
 > Transformajca układów współrzędnych
-> - Źródłowy układ współrzędnych przyjęty w rozporządzeniu: [WGS72](Docs/WGS72)  
-> - Docelowy układ współrzędnych: [ETRS89](Docs/ETRS89)
+> - Źródłowy układ współrzędnych przyjęty w rozporządzeniu: [WGS72](Docs/WGS72/)  
+> - Docelowy układ współrzędnych: [ETRS89](Docs/ETRS89/)
 > - Obliczenia wykonano za pomocą programu [PCTrans](Docs/PCTrans/) 4.2.10.
 > - Metoda transformacji: Helmert Bursa-Wolf (siedmioparametrowa)
 
@@ -155,7 +155,7 @@ współrzędnych z Dz.U.89.43.233 można stwierdzić, że jest to System [Rauenb
 ### Umowa między Rządem Polskiej Rzeczypospolitej Ludowej, Rządem Królestwa Szwecji i Rządem Związku Socjalistycznych Republik Radzieckich w sprawie wspólnego punktu rozgraniczenia obszarów morskich na morzu Bałtyckim, podpisana w Sztokholmie dnia 30 czerwca 1990 r.
 
 [Dz.U. 1990 nr 74 poz. 441](http://prawo.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900740441)  
-Źródłowy układ odniesienia: [WGS72](Docs/WGS72)
+Źródłowy układ odniesienia: [WGS72](Docs/WGS72/)
 
 |  Nr   | φ<sup>WGS72</sup> | λ<sup>WGS72</sup> | φ<sup>ETRS89</sup> | λ<sup>ETRS89</sup> |
 | :---: | :---------------: | :---------------: | :----------------: | :----------------: |
@@ -163,8 +163,8 @@ współrzędnych z Dz.U.89.43.233 można stwierdzić, że jest to System [Rauenb
 
 &nbsp;
 > Transformajca układów współrzędnych
-> - Źródłowy układ współrzędnych przyjęty w rozporządzeniu: [WGS72](Docs/WGS72)
-> - Docelowy układ współrzędnych: [ETRS89](Docs/ETRS89)
+> - Źródłowy układ współrzędnych przyjęty w rozporządzeniu: [WGS72](Docs/WGS72/)
+> - Docelowy układ współrzędnych: [ETRS89](Docs/ETRS89/)
 > - Obliczenia wykonano za pomocą programu [PCTrans](Docs/PCTrans/) 4.2.10.
 > - Metoda transformacji: Helmert Bursa-Wolf (siedmioparametrowa)
 
@@ -179,7 +179,7 @@ współrzędnych z Dz.U.89.43.233 można stwierdzić, że jest to System [Rauenb
 ### Umowa między Polską Rzecząpospolitą Ludową a Związkiem Socjalistycznych Republik Radzieckich o rozgraniczeniu morza terytorialnego (wód terytorialnych), strefy ekonomicznej, strefy rybołówstwa morskiego i szelfu kontynentalnego na Morzu Bałtyckim, podpisana w Moskwie dnia 17 lipca 1985 r.
 
 [Dz.U. 1986 nr 16 poz. 85](http://prawo.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19860160085)  
-Źródłowy układ odniesienia: [S-42](docs/wgs72) (Elipsoida Krassowskiego)
+Źródłowy układ odniesienia: [S-42](Docs/WGS72/) (Elipsoida Krassowskiego)
 
 |  Nr   | φ<sup>S-42</sup> | λ<sup>S-42</sup> | φ<sup>ETRS89</sup> | λ<sup>ETRS89</sup> |
 | :---: | :--------------: | :--------------: | :----------------: | :----------------: |
@@ -192,8 +192,8 @@ współrzędnych z Dz.U.89.43.233 można stwierdzić, że jest to System [Rauenb
 
 &nbsp;
 > Transformajca układów współrzędnych
-> - Źródłowy układ współrzędnych przyjęty w rozporządzeniu: [S-42](Docs/S42)
-> - Docelowy układ współrzędnych: [ETRS89](Docs/ETRS89)
+> - Źródłowy układ współrzędnych przyjęty w rozporządzeniu: [S-42](Docs/S42/)
+> - Docelowy układ współrzędnych: [ETRS89](Docs/ETRS89/)
 > - Obliczenia wykonano za pomocą programu [PCTrans](Docs/PCTrans/) 4.2.10
 > - Metoda transformacji: Helmert Bursa-Wolf (siedmioparametrowa)
 
@@ -208,7 +208,7 @@ współrzędnych z Dz.U.89.43.233 można stwierdzić, że jest to System [Rauenb
 ### Rozporządzenie Rady Ministrów z dnia 13 stycznia 2017 r. w sprawie szczegółowego przebiegu linii podstawowej, zewnętrznej granicy morza terytorialnego oraz zewnętrznej granicy strefy przyległej Rzeczypospolitej Polskiej
 
 [Dz.U. 2017 poz. 183](http://prawo.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000183)  
-Źródłowy układ odniesienia: [PL-ETRF89](docs/PL-ETRF89)
+Źródłowy układ odniesienia: [PL-ETRF89](Docs/PL-ETRF89/)
 
 &nbsp;
 
@@ -223,7 +223,7 @@ współrzędnych z Dz.U.89.43.233 można stwierdzić, że jest to System [Rauenb
  | 1166  |     54°27'32.949"     |     19°38'15.554"     |
 
 » [Wkaz współrzędnych linii podstawowej](Data/Dz.U.2017.183-LP.txt)  
-» [Mapa 1](Data\Dz.U.2017.183_LP-UMSzczecni.pdf), [Mapa 2](Data\Dz.U.2017.183_LP-UMSlupsk.pdf), [Mapa 3](Data\Dz.U.2017.183_LP-UMGdynia.pdf)
+» [Mapa 1](Data/Dz.U.2017.183_LP-UMSzczecni.pdf), [Mapa 2](Data/Dz.U.2017.183_LP-UMSlupsk.pdf), [Mapa 3](Data/Dz.U.2017.183_LP-UMGdynia.pdf)
 
 &nbsp;
 
@@ -238,7 +238,7 @@ współrzędnych z Dz.U.89.43.233 można stwierdzić, że jest to System [Rauenb
  | 2902  |     54°27'32.949"     |     19°38'15.554"     |
 
 » [Wkaz współrzędnych granicy morza terytorialnego](Data/Dz.U.2017.183-MT.txt)  
-» [Mapa 1](Data\Dz.U.2017.183_MT-SP-UMSzczecni.pdf), [Mapa 2](Data\Dz.U.2017.183_MT-SP-UMSlupsk.pdf), [Mapa 3](Data\Dz.U.2017.183_MT-SP-UMGdynia.pdf)
+» [Mapa 1](Data/Dz.U.2017.183_MT-SP-UMSzczecni.pdf), [Mapa 2](Data/Dz.U.2017.183_MT-SP-UMSlupsk.pdf), [Mapa 3](Data/Dz.U.2017.183_MT-SP-UMGdynia.pdf)
 
 &nbsp;
 
@@ -253,12 +253,12 @@ współrzędnych z Dz.U.89.43.233 można stwierdzić, że jest to System [Rauenb
  | 3804  |     54°36'14.04"      |     19°24'15.02"      |
 
 » [Wkaz współrzędnych granicy strefy przyległej](Data/Dz.U.2017.183-SP.txt)  
-» [Mapa 1](Data\Dz.U.2017.183_MT-SP-UMSzczecni.pdf), [Mapa 2](Data\Dz.U.2017.183_MT-SP-UMSlupsk.pdf), [Mapa 3](Data\Dz.U.2017.183_MT-SP-UMGdynia.pdf) 
+» [Mapa 1](Data/Dz.U.2017.183_MT-SP-UMSzczecni.pdf), [Mapa 2](Data/Dz.U.2017.183_MT-SP-UMSlupsk.pdf), [Mapa 3](Data/Dz.U.2017.183_MT-SP-UMGdynia.pdf) 
 
 &nbsp;
 > Transformajca układów współrzędnych
-> - Źródłowy układ współrzędnych przyjęty w umowe: [PL-ETRF89](Docs/PL-ETRF89)
-> - Docelowy układ współrzędnych: [ETRS89](Docs/ETRS89) (tożsamy z układem źródłowym)
+> - Źródłowy układ współrzędnych przyjęty w umowe: [PL-ETRF89](Docs/PL-ETRF89/)
+> - Docelowy układ współrzędnych: [ETRS89](Docs/ETRS89/) (tożsamy z układem źródłowym)
 
 &nbsp;
 
