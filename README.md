@@ -223,7 +223,7 @@ współrzędnych z Dz.U.89.43.233 można stwierdzić, że jest to System [Rauenb
  | 1166  |     54°27'32.949"     |     19°38'15.554"     |
 
 » [Wkaz współrzędnych linii podstawowej](Data/Dz.U.2017.183-LP.txt)  
-» [Mapa 1](Data/Dz.U.2017.183_LP-UMSzczecni.pdf), [Mapa 2](Data/Dz.U.2017.183_LP-UMSlupsk.pdf), [Mapa 3](Data/Dz.U.2017.183_LP-UMGdynia.pdf)
+» [Mapa 1](Data/Dz.U.2017.183_LP-UMSzczecin.pdf), [Mapa 2](Data/Dz.U.2017.183_LP-UMSlupsk.pdf), [Mapa 3](Data/Dz.U.2017.183_LP-UMGdynia.pdf)
 
 &nbsp;
 
@@ -238,7 +238,7 @@ współrzędnych z Dz.U.89.43.233 można stwierdzić, że jest to System [Rauenb
  | 2902  |     54°27'32.949"     |     19°38'15.554"     |
 
 » [Wkaz współrzędnych granicy morza terytorialnego](Data/Dz.U.2017.183-MT.txt)  
-» [Mapa 1](Data/Dz.U.2017.183_MT-SP-UMSzczecni.pdf), [Mapa 2](Data/Dz.U.2017.183_MT-SP-UMSlupsk.pdf), [Mapa 3](Data/Dz.U.2017.183_MT-SP-UMGdynia.pdf)
+» [Mapa 1](Data/Dz.U.2017.183_MT-SP-UMSzczecin.pdf), [Mapa 2](Data/Dz.U.2017.183_MT-SP-UMSlupsk.pdf), [Mapa 3](Data/Dz.U.2017.183_MT-SP-UMGdynia.pdf)
 
 &nbsp;
 
@@ -253,7 +253,7 @@ współrzędnych z Dz.U.89.43.233 można stwierdzić, że jest to System [Rauenb
  | 3804  |     54°36'14.04"      |     19°24'15.02"      |
 
 » [Wkaz współrzędnych granicy strefy przyległej](Data/Dz.U.2017.183-SP.txt)  
-» [Mapa 1](Data/Dz.U.2017.183_MT-SP-UMSzczecni.pdf), [Mapa 2](Data/Dz.U.2017.183_MT-SP-UMSlupsk.pdf), [Mapa 3](Data/Dz.U.2017.183_MT-SP-UMGdynia.pdf) 
+» [Mapa 1](Data/Dz.U.2017.183_MT-SP-UMSzczecin.pdf), [Mapa 2](Data/Dz.U.2017.183_MT-SP-UMSlupsk.pdf), [Mapa 3](Data/Dz.U.2017.183_MT-SP-UMGdynia.pdf) 
 
 &nbsp;
 > Transformajca układów współrzędnych
