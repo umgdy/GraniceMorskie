@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eur:Metadata xsi:schemaLocation="http://www.eurosion.org/metadataModel/ H:\wp2\METADA~3\MetadataModel\SchemaDesign\XML\eurosion_metadata.xsd" xmlns:eurosion="http://www.eurosion.org/metadataModel/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:eur="http://www.eurosion.org/metadataModel/">
+<eur:appSchInfo>
+<eur:asSchLang />
+<eur:asCstLang />
+<eur:asAscii />
+<eur:asGraFile>
+<eur:BinaryBase64 />
+</eur:asGraFile>
+</eur:appSchInfo>
+<eur:euroExt>
+<eur:eurTopic>Marine administrative boundaries</eur:eurTopic>
+</eur:euroExt>
+<eur:DataIdent>
+<eur:idAbs>Maritime Boundaries Layers proposes a graphical view of the official United Nations Law of the Sea agreeds maritime delimitations. Amongst other baselines, territorial seas, Exclusive Economic Zones or Outer limit of the continental shelf.</eur:idAbs>
+<eur:idStatus>completed</eur:idStatus>
+<eur:LegConsts>
+<eur:useLimit>Free dissemination outside of the European Commission and affiliates forbidden without prior consent of the data processor, referred hereto</eur:useLimit>
+</eur:LegConsts>
+<eur:descKeys>
+<eur:keyTyp>theme</eur:keyTyp>
+<eur:keyword>UNCLOS</eur:keyword>
+<eur:keyword>Maritime Boundaries</eur:keyword>
+<eur:keyword>Law of the Sea Texts</eur:keyword>
+<eur:keyword>IGN France International</eur:keyword>
+</eur:descKeys>
+<eur:descKeys>
+<eur:keyTyp>place</eur:keyTyp>
+<eur:keyword>Europe</eur:keyword>
+</eur:descKeys>
+<eur:idCitation>
+<iso19115:resTitle xmlns:iso19115="http://www.isotc211.org/iso19115/">Maritime Boundaries</iso19115:resTitle>
+<eur:resAltTitle>MB</eur:resAltTitle>
+<iso19115:resRefDate xmlns:iso19115="http://www.isotc211.org/iso19115/">
+<iso19115:refDateType>creation</iso19115:refDateType>
+<iso19115:refDate>2003-11-10</iso19115:refDate>
+</iso19115:resRefDate>
+<eur:resRefDate>
+<eur:refDate>2003-12-31</eur:refDate>
+<eur:refDateType>publication</eur:refDateType>
+</eur:resRefDate>
+<iso19115:citRespParty xmlns:iso19115="http://www.isotc211.org/iso19115/">
+<iso19115:role>processor</iso19115:role>
+<iso19115:rpIndName>Herve PICHON</iso19115:rpIndName>
+<iso19115:rpOrgName>IGN France International</iso19115:rpOrgName>
+<iso19115:rpPosName>Project Manager in charge of the EUROSION database creation</iso19115:rpPosName>
+<iso19115:rpCntInfo>
+<iso19115:cntPhone>
+<iso19115:voiceNum>+33 1 4234 5656</iso19115:voiceNum>
+<iso19115:faxNum>+33 1 4234 5651</iso19115:faxNum>
+</iso19115:cntPhone>
+<iso19115:cntAddress>
+<iso19115:delPoint>39 ter, rue Gay-Lussac</iso19115:delPoint>
+<iso19115:adminArea>PARIS</iso19115:adminArea>
+<iso19115:postCode>75005</iso19115:postCode>
+<iso19115:country>fr</iso19115:country>
+<iso19115:eMailAdd>hpichon@ignfi.fr</iso19115:eMailAdd>
+</iso19115:cntAddress>
+</iso19115:rpCntInfo>
+</iso19115:citRespParty>
+<iso19115:identifierType xmlns:iso19115="http://www.isotc211.org/iso19115/">0</iso19115:identifierType>
+</eur:idCitation>
+<eur:idPurp>This layer was proposed for informative purpose mainly, reminding that the limits of the study on coastal erosion is the outer limit of the continental shelf.</eur:idPurp>
+<eur:idPoC>
+<iso19115:rpIndName xmlns:iso19115="http://www.isotc211.org/iso19115/">Hervé PICHON</iso19115:rpIndName>
+<iso19115:rpOrgName xmlns:iso19115="http://www.isotc211.org/iso19115/">IGN France International</iso19115:rpOrgName>
+<iso19115:rpPosName xmlns:iso19115="http://www.isotc211.org/iso19115/">Projects Responsible</iso19115:rpPosName>
+<iso19115:role xmlns:iso19115="http://www.isotc211.org/iso19115/">resourceProvider</iso19115:role>
+<iso19115:rpCntInfo xmlns:iso19115="http://www.isotc211.org/iso19115/">
+<iso19115:cntPhone>
+<iso19115:voiceNum>+33 1 42345656</iso19115:voiceNum>
+<iso19115:faxNum>+33 1 42345651</iso19115:faxNum>
+</iso19115:cntPhone>
+<iso19115:cntAddress>
+<iso19115:delPoint>39 ter, rue Gay-Lussac</iso19115:delPoint>
+<iso19115:city />
+<iso19115:adminArea>PARIS</iso19115:adminArea>
+<iso19115:postCode>75005</iso19115:postCode>
+<iso19115:country>FRANCE</iso19115:country>
+<iso19115:eMailAdd>hpichon@ignfi.fr</iso19115:eMailAdd>
+</iso19115:cntAddress>
+</iso19115:rpCntInfo>
+</eur:idPoC>
+<eur:tpCat>boundaries</eur:tpCat>
+<eur:tpCat>environment</eur:tpCat>
+<eur:tpCat>oceans</eur:tpCat>
+<eur:dataExt>
+<eur:exDesc>Geographical extent is directly linked to the availability of Law Of the Sea texts disseminated by the United Nations.</eur:exDesc>
+</eur:dataExt>
+<eur:geoBox>
+<eur:westBL>-20</eur:westBL>
+<eur:eastBL>35</eur:eastBL>
+<eur:southBL>30</eur:southBL>
+<eur:northBL>70</eur:northBL>
+<eur:altiBoundLongitude>0</eur:altiBoundLongitude>
+<eur:altiBoundLatitude>0</eur:altiBoundLatitude>
+</eur:geoBox>
+<eur:geoDesc>
+<eur:geoId>
+<iso19115:identCode xmlns:iso19115="http://www.isotc211.org/iso19115/">0</iso19115:identCode>
+</eur:geoId>
+<eur:exTypeCode>false</eur:exTypeCode>
+</eur:geoDesc>
+<eur:dataLang>
+<eur:languageCode value="en" />
+</eur:dataLang>
+</eur:DataIdent>
+<eur:dqInfo>
+<eur:dataLineage>
+<eur:statement>Text sources are available at the following URL: http://www.un.org/Depts/los/LEGISLATIONANDTREATIES/index.htm; Database creation was made by IGN France International for the EUROSION Maritime Boundary Layer</eur:statement>
+</eur:dataLineage>
+<eur:DQCompleteComm>
+<iso19115:evalMethType xmlns:iso19115="http://www.isotc211.org/iso19115/" />
+<eur:measName />
+<iso19115:measId xmlns:iso19115="http://www.isotc211.org/iso19115/">
+<iso19115:identAuth>
+<iso19115:resTitle />
+<iso19115:resRefDate>
+<iso19115:refDateType>available</iso19115:refDateType>
+<iso19115:refDate>2004-01-01</iso19115:refDate>
+</iso19115:resRefDate>
+<iso19115:identifierType />
+</iso19115:identAuth>
+<iso19115:identCode />
+</iso19115:measId>
+<eur:measDesc />
+<iso19115:evalMethDesc xmlns:iso19115="http://www.isotc211.org/iso19115/" />
+<eur:evalProc>
+<iso19115:resTitle xmlns:iso19115="http://www.isotc211.org/iso19115/" />
+</eur:evalProc>
+<iso19115:measDateTm xmlns:iso19115="http://www.isotc211.org/iso19115/" />
+</eur:DQCompleteComm>
+</eur:dqInfo>
+<eur:VectSpatRep>
+<eur:topLvl />
+<eur:geometObjs>
+<eur:geoObjTyp />
+<eur:geoObjCnt />
+</eur:geometObjs>
+</eur:VectSpatRep>
+<eur:GridSpatRep>
+<eur:cellGeo>point</eur:cellGeo>
+<eur:numDims />
+<eur:axDimProps>
+<iso19115:dimName xmlns:iso19115="http://www.isotc211.org/iso19115/" />
+<iso19115:dimSize xmlns:iso19115="http://www.isotc211.org/iso19115/" />
+<iso19115:dimResol xmlns:iso19115="http://www.isotc211.org/iso19115/" />
+</eur:axDimProps>
+<eur:tranParaAv />
+</eur:GridSpatRep>
+<eur:MdCoRefSys>
+<eur:refSysId>
+<iso19115:identCode xmlns:iso19115="http://www.isotc211.org/iso19115/">ETRS89</iso19115:identCode>
+</eur:refSysId>
+<eur:projection>
+<iso19115:identCode xmlns:iso19115="http://www.isotc211.org/iso19115/" />
+</eur:projection>
+<eur:projParas>
+<eur:zone />
+<eur:stanParal />
+<eur:longCntMer />
+<eur:latProjOri />
+<eur:falEastng />
+<eur:falNorthng />
+<eur:falENUnits />
+<eur:sclFacEqu />
+<eur:hgtProsPt />
+<eur:longProjCnt />
+<eur:latProjCnt />
+<eur:sclFacCnt />
+<eur:stVrLongPl />
+<eur:sclFacPrOr />
+</eur:projParas>
+<eur:ellipsoid>
+<iso19115:identCode xmlns:iso19115="http://www.isotc211.org/iso19115/">IAG GRS 80</iso19115:identCode>
+</eur:ellipsoid>
+<eur:ellParas>
+<eur:semiMajAx />
+<eur:axisUnits />
+<eur:denFlatRat />
+</eur:ellParas>
+<eur:datum>
+<iso19115:identCode xmlns:iso19115="http://www.isotc211.org/iso19115/">WGS84</iso19115:identCode>
+</eur:datum>
+</eur:MdCoRefSys>
+<eur:distInfo>
+<eur:distributor>
+<eur:distorCont>
+<iso19115:rpIndName xmlns:iso19115="http://www.isotc211.org/iso19115/">Herve PICHON</iso19115:rpIndName>
+<iso19115:rpOrgName xmlns:iso19115="http://www.isotc211.org/iso19115/">IGN France International</iso19115:rpOrgName>
+<iso19115:rpPosName xmlns:iso19115="http://www.isotc211.org/iso19115/">Project Manager in charge of the EUROSION database creation</iso19115:rpPosName>
+<iso19115:rpCntInfo xmlns:iso19115="http://www.isotc211.org/iso19115/">
+<iso19115:cntPhone>
+<iso19115:voiceNum>+33 1 4234 5656</iso19115:voiceNum>
+<iso19115:faxNum>+33 1 4234 5651</iso19115:faxNum>
+</iso19115:cntPhone>
+<iso19115:cntAddress>
+<iso19115:delPoint>39 ter, rue Gay-Lussac</iso19115:delPoint>
+<iso19115:adminArea>PARIS</iso19115:adminArea>
+<iso19115:postCode>75005</iso19115:postCode>
+<iso19115:country>fr</iso19115:country>
+<iso19115:eMailAdd>hpichon@ignfi.fr</iso19115:eMailAdd>
+</iso19115:cntAddress>
+</iso19115:rpCntInfo>
+<iso19115:role xmlns:iso19115="http://www.isotc211.org/iso19115/">resourceProvider</iso19115:role>
+</eur:distorCont>
+<eur:distorFormat>
+<eur:formatName>SHP, XLS</eur:formatName>
+<eur:formatVer>v8.xx</eur:formatVer>
+</eur:distorFormat>
+<eur:distorTran>
+<eur:offLineMed>
+<eur:medName>cdRom</eur:medName>
+</eur:offLineMed>
+<eur:onLineSrc>
+<iso19115:linkage xmlns:iso19115="http://www.isotc211.org/iso19115/">http://www.ignfi.fr</iso19115:linkage>
+<iso19115:protocol xmlns:iso19115="http://www.isotc211.org/iso19115/">none</iso19115:protocol>
+</eur:onLineSrc>
+</eur:distorTran>
+</eur:distributor>
+<eur:distFormat>
+<eur:formatName>SHAPE, XLS...</eur:formatName>
+</eur:distFormat>
+</eur:distInfo>
+<eur:mdFileID />
+<eur:mdChar></eur:mdChar>
+<eur:mdParentID />
+<eur:mdHrLv></eur:mdHrLv>
+<eur:mdHrLvName>dataset</eur:mdHrLvName>
+<eur:mdContact>
+<iso19115:role xmlns:iso19115="http://www.isotc211.org/iso19115/">originator</iso19115:role>
+<iso19115:rpIndName xmlns:iso19115="http://www.isotc211.org/iso19115/">Herve PICHON</iso19115:rpIndName>
+<iso19115:rpOrgName xmlns:iso19115="http://www.isotc211.org/iso19115/">IGN France International</iso19115:rpOrgName>
+<iso19115:rpPosName xmlns:iso19115="http://www.isotc211.org/iso19115/">Project Manager in charge of the EUROSION database creation</iso19115:rpPosName>
+<iso19115:rpCntInfo xmlns:iso19115="http://www.isotc211.org/iso19115/">
+<iso19115:cntPhone>
+<iso19115:voiceNum>+33 1 4234 5656</iso19115:voiceNum>
+<iso19115:faxNum>+33 1 4234 5651</iso19115:faxNum>
+</iso19115:cntPhone>
+<iso19115:cntAddress>
+<iso19115:delPoint>39 ter, rue Gay-Lussac</iso19115:delPoint>
+<iso19115:adminArea>PARIS</iso19115:adminArea>
+<iso19115:postCode>75005</iso19115:postCode>
+<iso19115:country>fr</iso19115:country>
+<iso19115:eMailAdd>hpichon@ignfi.fr</iso19115:eMailAdd>
+</iso19115:cntAddress>
+</iso19115:rpCntInfo>
+</eur:mdContact>
+<eur:mdDateSt>2003-12-23</eur:mdDateSt>
+<eur:mdStanName></eur:mdStanName>
+<eur:mdStanVer></eur:mdStanVer>
+</eur:Metadata>
